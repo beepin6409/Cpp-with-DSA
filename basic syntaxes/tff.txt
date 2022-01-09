@@ -1,0 +1,1 @@
+Change in temperature with respect to altitude is called lapse  rate
